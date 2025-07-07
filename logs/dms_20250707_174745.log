@@ -1,0 +1,179 @@
+2025-07-07 17:48:02,683 - __main__                  - INFO     - 설정 완료: {'input_source': ['C:/Users/HKIT/Videos/VS1/SGA5100180/SGA5100180S0097/video/SGA5100180S0097.mp4', 'C:/Users/HKIT/Videos/VS1/SGA5100180/SGA5100180S0126/video/SGA5100180S0126.mp4', 'C:/Users/HKIT/Videos/VS1/SGA5100180/SGA5100180S0135/video/SGA5100180S0135.mp4', 'C:/Users/HKIT/Videos/VS1/SGA5100180/SGA5100180S0086/video/SGA5100180S0086.mp4', 'C:/Users/HKIT/Videos/VS1/SGA5100180/SGA5100180S0101/video/SGA5100180S0101.mp4', 'C:/Users/HKIT/Videos/VS1/SGA5100180/SGA5100180S0109/video/SGA5100180S0109.mp4', 'C:/Users/HKIT/Videos/VS1/SGA5100180/SGA5100180S0113/video/SGA5100180S0113.mp4', 'C:/Users/HKIT/Videos/VS1/SGA5100180/SGA5100180S0128/video/SGA5100180S0128.mp4', 'C:/Users/HKIT/Videos/VS1/SGA5100180/SGA5100180S0177/video/SGA5100180S0177.mp4', 'C:/Users/HKIT/Videos/VS1/SGA5100180/SGA5100180S0032/video/SGA5100180S0032.mp4', 'C:/Users/HKIT/Videos/VS1/SGA5100180/SGA5100180S0036/video/SGA5100180S0036.mp4', 'C:/Users/HKIT/Videos/VS1/SGA5100180/SGA5100180S0063/video/SGA5100180S0063.mp4', 'C:/Users/HKIT/Videos/VS1/SGA5100180/SGA5100180S0090/video/SGA5100180S0090.mp4', 'C:/Users/HKIT/Videos/VS1/SGA5100180/SGA5100180S0010/video/SGA5100180S0010.mp4', 'C:/Users/HKIT/Videos/VS1/SGA5100180/SGA5100180S0020/video/SGA5100180S0020.mp4', 'C:/Users/HKIT/Videos/VS1/SGA5100180/SGA5100180S0062/video/SGA5100180S0062.mp4', 'C:/Users/HKIT/Videos/VS1/SGA5100180/SGA5100180S0073/video/SGA5100180S0073.mp4', 'C:/Users/HKIT/Videos/VS1/SGA5100180/SGA5100180S0169/video/SGA5100180S0169.mp4', 'C:/Users/HKIT/Videos/VS1/SGA5100180/SGA5100180S0088/video/SGA5100180S0088.mp4', 'C:/Users/HKIT/Videos/VS1/SGA5100180/SGA5100180S0104/video/SGA5100180S0104.mp4', 'C:/Users/HKIT/Videos/VS1/SGA5100180/SGA5100180S0171/video/SGA5100180S0171.mp4', 'C:/Users/HKIT/Videos/VS1/SGA5100180/SGA5100180S0048/video/SGA5100180S0048.mp4', 'C:/Users/HKIT/Videos/VS1/SGA5100180/SGA5100180S0119/video/SGA5100180S0119.mp4', 'C:/Users/HKIT/Videos/VS1/SGA5100180/SGA5100180S0174/video/SGA5100180S0174.mp4', 'C:/Users/HKIT/Videos/VS1/SGA5100180/SGA5100180S0005/video/SGA5100180S0005.mp4', 'C:/Users/HKIT/Videos/VS1/SGA5100180/SGA5100180S0108/video/SGA5100180S0108.mp4', 'C:/Users/HKIT/Videos/VS1/SGA5100180/SGA5100180S0116/video/SGA5100180S0116.mp4', 'C:/Users/HKIT/Videos/VS1/SGA5100180/SGA5100180S0154/video/SGA5100180S0154.mp4', 'C:/Users/HKIT/Videos/VS1/SGA5100180/SGA5100180S0057/video/SGA5100180S0057.mp4', 'C:/Users/HKIT/Videos/VS1/SGA5100180/SGA5100180S0194/video/SGA5100180S0194.mp4', 'C:/Users/HKIT/Videos/VS1/SGA5100180/SGA5100180S0197/video/SGA5100180S0197.mp4', 'C:/Users/HKIT/Videos/VS1/SGA5100180/SGA5100180S0074/video/SGA5100180S0074.mp4', 'C:/Users/HKIT/Videos/VS1/SGA5100180/SGA5100180S0098/video/SGA5100180S0098.mp4', 'C:/Users/HKIT/Videos/VS1/SGA5100180/SGA5100180S0132/video/SGA5100180S0132.mp4', 'C:/Users/HKIT/Videos/VS1/SGA5100180/SGA5100180S0191/video/SGA5100180S0191.mp4', 'C:/Users/HKIT/Videos/VS1/SGA5100180/SGA5100180S0056/video/SGA5100180S0056.mp4', 'C:/Users/HKIT/Videos/VS1/SGA5100180/SGA5100180S0091/video/SGA5100180S0091.mp4', 'C:/Users/HKIT/Videos/VS1/SGA5100180/SGA5100180S0130/video/SGA5100180S0130.mp4', 'C:/Users/HKIT/Videos/VS1/SGA5100180/SGA5100180S0011/video/SGA5100180S0011.mp4', 'C:/Users/HKIT/Videos/VS1/SGA5100180/SGA5100180S0030/video/SGA5100180S0030.mp4', 'C:/Users/HKIT/Videos/VS1/SGA5100180/SGA5100180S0061/video/SGA5100180S0061.mp4', 'C:/Users/HKIT/Videos/VS1/SGA5100180/SGA5100180S0017/video/SGA5100180S0017.mp4', 'C:/Users/HKIT/Videos/VS1/SGA5100180/SGA5100180S0022/video/SGA5100180S0022.mp4', 'C:/Users/HKIT/Videos/VS1/SGA5100180/SGA5100180S0070/video/SGA5100180S0070.mp4', 'C:/Users/HKIT/Videos/VS1/SGA5100180/SGA5100180S0081/video/SGA5100180S0081.mp4', 'C:/Users/HKIT/Videos/VS1/SGA5100180/SGA5100180S0107/video/SGA5100180S0107.mp4', 'C:/Users/HKIT/Videos/VS1/SGA5100180/SGA5100180S0134/video/SGA5100180S0134.mp4', 'C:/Users/HKIT/Videos/VS1/SGA5100180/SGA5100180S0176/video/SGA5100180S0176.mp4', 'C:/Users/HKIT/Videos/VS1/SGA5100180/SGA5100180S0199/video/SGA5100180S0199.mp4', 'C:/Users/HKIT/Videos/VS1/SGA5100180/SGA5100180S0035/video/SGA5100180S0035.mp4', 'C:/Users/HKIT/Videos/VS1/SGA5100180/SGA5100180S0094/video/SGA5100180S0094.mp4', 'C:/Users/HKIT/Videos/VS1/SGA5100180/SGA5100180S0125/video/SGA5100180S0125.mp4', 'C:/Users/HKIT/Videos/VS1/SGA5100180/SGA5100180S0064/video/SGA5100180S0064.mp4', 'C:/Users/HKIT/Videos/VS1/SGA5100180/SGA5100180S0068/video/SGA5100180S0068.mp4', 'C:/Users/HKIT/Videos/VS1/SGA5100180/SGA5100180S0103/video/SGA5100180S0103.mp4', 'C:/Users/HKIT/Videos/VS1/SGA5100180/SGA5100180S0012/video/SGA5100180S0012.mp4', 'C:/Users/HKIT/Videos/VS1/SGA5100180/SGA5100180S0024/video/SGA5100180S0024.mp4', 'C:/Users/HKIT/Videos/VS1/SGA5100180/SGA5100180S0127/video/SGA5100180S0127.mp4', 'C:/Users/HKIT/Videos/VS1/SGA5100180/SGA5100180S0173/video/SGA5100180S0173.mp4', 'C:/Users/HKIT/Videos/VS1/SGA5100180/SGA5100180S0102/video/SGA5100180S0102.mp4', 'C:/Users/HKIT/Videos/VS1/SGA5100180/SGA5100180S0118/video/SGA5100180S0118.mp4', 'C:/Users/HKIT/Videos/VS1/SGA5100180/SGA5100180S0188/video/SGA5100180S0188.mp4', 'C:/Users/HKIT/Videos/VS1/SGA5100180/SGA5100180S0084/video/SGA5100180S0084.mp4', 'C:/Users/HKIT/Videos/VS1/SGA5100180/SGA5100180S0150/video/SGA5100180S0150.mp4', 'C:/Users/HKIT/Videos/VS1/SGA5100180/SGA5100180S0198/video/SGA5100180S0198.mp4', 'C:/Users/HKIT/Videos/VS1/SGA5100180/SGA5100180S0031/video/SGA5100180S0031.mp4', 'C:/Users/HKIT/Videos/VS1/SGA5100180/SGA5100180S0059/video/SGA5100180S0059.mp4', 'C:/Users/HKIT/Videos/VS1/SGA5100180/SGA5100180S0067/video/SGA5100180S0067.mp4', 'C:/Users/HKIT/Videos/VS1/SGA5100180/SGA5100180S0083/video/SGA5100180S0083.mp4', 'C:/Users/HKIT/Videos/VS1/SGA5100180/SGA5100180S0045/video/SGA5100180S0045.mp4', 'C:/Users/HKIT/Videos/VS1/SGA5100180/SGA5100180S0151/video/SGA5100180S0151.mp4', 'C:/Users/HKIT/Videos/VS1/SGA5100180/SGA5100180S0172/video/SGA5100180S0172.mp4', 'C:/Users/HKIT/Videos/VS1/SGA5100180/SGA5100180S0025/video/SGA5100180S0025.mp4', 'C:/Users/HKIT/Videos/VS1/SGA5100180/SGA5100180S0123/video/SGA5100180S0123.mp4', 'C:/Users/HKIT/Videos/VS1/SGA5100180/SGA5100180S0131/video/SGA5100180S0131.mp4', 'C:/Users/HKIT/Videos/VS1/SGA5100180/SGA5100180S0139/video/SGA5100180S0139.mp4', 'C:/Users/HKIT/Videos/VS1/SGA5100180/SGA5100180S0014/video/SGA5100180S0014.mp4', 'C:/Users/HKIT/Videos/VS1/SGA5100180/SGA5100180S0080/video/SGA5100180S0080.mp4', 'C:/Users/HKIT/Videos/VS1/SGA5100180/SGA5100180S0196/video/SGA5100180S0196.mp4', 'C:/Users/HKIT/Videos/VS1/SGA5100180/SGA5100180S0037/video/SGA5100180S0037.mp4', 'C:/Users/HKIT/Videos/VS1/SGA5100180/SGA5100180S0044/video/SGA5100180S0044.mp4', 'C:/Users/HKIT/Videos/VS1/SGA5100180/SGA5100180S0186/video/SGA5100180S0186.mp4', 'C:/Users/HKIT/Videos/VS1/SGA5100180/SGA5100180S0013/video/SGA5100180S0013.mp4', 'C:/Users/HKIT/Videos/VS1/SGA5100180/SGA5100180S0100/video/SGA5100180S0100.mp4', 'C:/Users/HKIT/Videos/VS1/SGA5100180/SGA5100180S0120/video/SGA5100180S0120.mp4', 'C:/Users/HKIT/Videos/VS1/SGA5100180/SGA5100180S0146/video/SGA5100180S0146.mp4', 'C:/Users/HKIT/Videos/VS1/SGA5100180/SGA5100180S0021/video/SGA5100180S0021.mp4', 'C:/Users/HKIT/Videos/VS1/SGA5100180/SGA5100180S0028/video/SGA5100180S0028.mp4', 'C:/Users/HKIT/Videos/VS1/SGA5100180/SGA5100180S0136/video/SGA5100180S0136.mp4', 'C:/Users/HKIT/Videos/VS1/SGA5100180/SGA5100180S0019/video/SGA5100180S0019.mp4', 'C:/Users/HKIT/Videos/VS1/SGA5100180/SGA5100180S0033/video/SGA5100180S0033.mp4', 'C:/Users/HKIT/Videos/VS1/SGA5100180/SGA5100180S0195/video/SGA5100180S0195.mp4', 'C:/Users/HKIT/Videos/VS1/SGA5100180/SGA5100180S0201/video/SGA5100180S0201.mp4', 'C:/Users/HKIT/Videos/VS1/SGA5100180/SGA5100180S0149/video/SGA5100180S0149.mp4', 'C:/Users/HKIT/Videos/VS1/SGA5100180/SGA5100180S0152/video/SGA5100180S0152.mp4', 'C:/Users/HKIT/Videos/VS1/SGA5100180/SGA5100180S0166/video/SGA5100180S0166.mp4', 'C:/Users/HKIT/Videos/VS1/SGA5100180/SGA5100180S0155/video/SGA5100180S0155.mp4', 'C:/Users/HKIT/Videos/VS1/SGA5100180/SGA5100180S0089/video/SGA5100180S0089.mp4', 'C:/Users/HKIT/Videos/VS1/SGA5100180/SGA5100180S0023/video/SGA5100180S0023.mp4', 'C:/Users/HKIT/Videos/VS1/SGA5100180/SGA5100180S0029/video/SGA5100180S0029.mp4', 'C:/Users/HKIT/Videos/VS1/SGA5100180/SGA5100180S0087/video/SGA5100180S0087.mp4', 'C:/Users/HKIT/Videos/VS1/SGA5100180/SGA5100180S0193/video/SGA5100180S0193.mp4'], 'user_id': 'default', 'camera_position': <CameraPosition.DASHBOARD_CENTER: '대시보드 중앙'>, 'enable_calibration': False, 'is_same_driver': True}
+2025-07-07 17:48:02,693 - systems.performance       - INFO     - PerformanceOptimizer 초기화 완료
+2025-07-07 17:48:02,693 - io_handler.video_input    - INFO     - 운전자 연속성 설정됨: 동일 운전자
+2025-07-07 17:48:02,712 - systems.personalization   - INFO     - 사용자 프로필 로드됨: default
+2025-07-07 17:48:02,714 - systems.dynamic           - INFO     - DynamicAnalysisEngine 상태 초기화됨.
+2025-07-07 17:48:02,715 - systems.dynamic           - INFO     - DynamicAnalysisEngine 초기화 완료
+2025-07-07 17:48:02,716 - systems.backup            - INFO     - SensorBackupManager 초기화 완료
+2025-07-07 17:48:02,718 - analysis.gaze             - INFO     - EnhancedSphericalGazeClassifier 초기화: 11개 구역 정의됨
+2025-07-07 17:48:02,719 - analysis.drowsiness       - INFO     - EnhancedDrowsinessDetector 초기화 완료
+2025-07-07 17:48:02,720 - analysis.emotion          - INFO     - EmotionRecognitionSystem 초기화 완료
+2025-07-07 17:48:02,721 - analysis.distraction      - INFO     - DistractionObjectDetector 초기화 완료
+2025-07-07 17:48:02,726 - analysis.identity         - INFO     - 1명의 운전자 프로필 로드됨
+2025-07-07 17:48:02,726 - analysis.identity         - INFO     - DriverIdentificationSystem 초기화 완료
+2025-07-07 17:48:02,727 - analysis.prediction       - INFO     - PredictiveSafetySystem 초기화 완료
+2025-07-07 17:48:02,732 - systems.performance       - INFO     - PerformanceOptimizer 초기화 완료
+2025-07-07 17:48:02,804 - systems.mediapipe_manager - INFO     - ✅ FaceLandmarker 초기화 완료 (블렌드셰이프 활성화)
+2025-07-07 17:48:03,061 - systems.mediapipe_manager - INFO     - ✅ PoseLandmarker 초기화 완료 (33 키포인트)
+2025-07-07 17:48:03,169 - systems.mediapipe_manager - INFO     - ✅ HandLandmarker 초기화 완료
+2025-07-07 17:48:03,233 - systems.mediapipe_manager - INFO     - ✅ ObjectDetector 초기화 완료 (주의산만 객체 감지)
+2025-07-07 17:48:03,250 - io_handler.video_input    - INFO     - ✅ 입력 소스 초기화 및 스레드 시작
+2025-07-07 17:48:03,251 - app                       - INFO     - 🚀 고도화된 DMS 시스템 v18 (연구 결과 통합) 초기화 완료
+2025-07-07 17:48:03,251 - app                       - INFO     - 📊 새로운 기능: 향상된 EAR, 감정 인식, 예측적 안전, 운전자 식별
+2025-07-07 17:48:03,251 - app                       - INFO     - 🎯 DMS v18 시스템 시작. 'q'를 눌러 종료, 스페이스바로 일시정지, 's'로 스크린샷 저장
+2025-07-07 17:48:03,539 - systems.backup            - WARNING  - 백업 모드 활성화: hand_backup_active
+2025-07-07 17:48:06,121 - systems.performance       - WARNING  - 성능 최적화 모드 활성화
+2025-07-07 17:48:06,127 - systems.performance       - INFO     - 적용 전략: 프레임 스키핑 증가
+2025-07-07 17:48:06,127 - systems.performance       - INFO     - 적용 전략: 분석 해상도 감소
+2025-07-07 17:48:06,127 - systems.performance       - INFO     - 적용 전략: 일부 분석 기능 비활성화
+2025-07-07 17:48:06,127 - systems.performance       - INFO     - 적용 전략: 메모리 정리 강화
+2025-07-07 17:48:06,264 - systems.performance       - WARNING  - 성능 최적화 모드 활성화
+2025-07-07 17:48:06,265 - systems.performance       - INFO     - 적용 전략: 프레임 스키핑 증가
+2025-07-07 17:48:06,265 - systems.performance       - INFO     - 적용 전략: 분석 해상도 감소
+2025-07-07 17:48:06,265 - systems.performance       - INFO     - 적용 전략: 일부 분석 기능 비활성화
+2025-07-07 17:48:06,265 - systems.performance       - INFO     - 적용 전략: 메모리 정리 강화
+2025-07-07 17:48:07,815 - io_handler.video_input    - INFO     - 다음 비디오 로드: SGA5100180S0126.mp4
+2025-07-07 17:48:12,922 - io_handler.video_input    - INFO     - 다음 비디오 로드: SGA5100180S0135.mp4
+2025-07-07 17:48:13,050 - systems.backup            - WARNING  - 백업 모드 활성화: face_backup_active
+2025-07-07 17:48:13,147 - systems.backup            - INFO     - 백업 모드 비활성화: face_backup_active - 원본 센서 복구됨
+2025-07-07 17:48:15,166 - systems.backup            - WARNING  - 백업 모드 활성화: face_backup_active
+2025-07-07 17:48:15,206 - core.state_manager        - INFO     - 상태 전환: SAFE -> FATIGUE_LOW (이벤트: FATIGUE_ACCUMULATION)
+2025-07-07 17:48:15,265 - core.state_manager        - INFO     - 상태 전환: FATIGUE_LOW -> FATIGUE_HIGH (이벤트: FATIGUE_ACCUMULATION)
+2025-07-07 17:48:15,321 - core.state_manager        - INFO     - 상태 전환: FATIGUE_HIGH -> FATIGUE_LOW (이벤트: FATIGUE_ACCUMULATION)
+2025-07-07 17:48:15,380 - core.state_manager        - INFO     - 상태 전환: FATIGUE_LOW -> FATIGUE_HIGH (이벤트: FATIGUE_ACCUMULATION)
+2025-07-07 17:48:15,434 - core.state_manager        - INFO     - 상태 전환: FATIGUE_HIGH -> FATIGUE_LOW (이벤트: FATIGUE_ACCUMULATION)
+2025-07-07 17:48:15,488 - core.state_manager        - INFO     - 상태 전환: FATIGUE_LOW -> FATIGUE_HIGH (이벤트: FATIGUE_ACCUMULATION)
+2025-07-07 17:48:15,532 - core.state_manager        - INFO     - 상태 전환: FATIGUE_HIGH -> FATIGUE_LOW (이벤트: FATIGUE_ACCUMULATION)
+2025-07-07 17:48:15,589 - systems.backup            - INFO     - 백업 모드 비활성화: face_backup_active - 원본 센서 복구됨
+2025-07-07 17:48:15,599 - core.state_manager        - INFO     - 상태 전환: FATIGUE_LOW -> FATIGUE_HIGH (이벤트: FATIGUE_ACCUMULATION)
+2025-07-07 17:48:15,666 - core.state_manager        - INFO     - 상태 전환: FATIGUE_HIGH -> FATIGUE_LOW (이벤트: FATIGUE_ACCUMULATION)
+2025-07-07 17:48:15,775 - core.state_manager        - INFO     - 상태 전환: FATIGUE_LOW -> FATIGUE_HIGH (이벤트: FATIGUE_ACCUMULATION)
+2025-07-07 17:48:15,844 - core.state_manager        - INFO     - 상태 전환: FATIGUE_HIGH -> FATIGUE_LOW (이벤트: FATIGUE_ACCUMULATION)
+2025-07-07 17:48:15,907 - core.state_manager        - INFO     - 상태 전환: FATIGUE_LOW -> FATIGUE_HIGH (이벤트: FATIGUE_ACCUMULATION)
+2025-07-07 17:48:15,967 - core.state_manager        - INFO     - 상태 전환: FATIGUE_HIGH -> FATIGUE_LOW (이벤트: FATIGUE_ACCUMULATION)
+2025-07-07 17:48:16,015 - core.state_manager        - INFO     - 상태 전환: FATIGUE_LOW -> FATIGUE_HIGH (이벤트: FATIGUE_ACCUMULATION)
+2025-07-07 17:48:16,090 - core.state_manager        - INFO     - 상태 전환: FATIGUE_HIGH -> FATIGUE_LOW (이벤트: FATIGUE_ACCUMULATION)
+2025-07-07 17:48:16,146 - core.state_manager        - INFO     - 상태 전환: FATIGUE_LOW -> FATIGUE_HIGH (이벤트: FATIGUE_ACCUMULATION)
+2025-07-07 17:48:16,198 - systems.performance       - INFO     - 성능 최적화 모드 비활성화 - 정상 성능 복구
+2025-07-07 17:48:16,213 - core.state_manager        - INFO     - 상태 전환: FATIGUE_HIGH -> FATIGUE_LOW (이벤트: FATIGUE_ACCUMULATION)
+2025-07-07 17:48:16,250 - systems.performance       - INFO     - 성능 최적화 모드 비활성화 - 정상 성능 복구
+2025-07-07 17:48:16,288 - core.state_manager        - INFO     - 상태 전환: FATIGUE_LOW -> FATIGUE_HIGH (이벤트: FATIGUE_ACCUMULATION)
+2025-07-07 17:48:16,360 - core.state_manager        - INFO     - 상태 전환: FATIGUE_HIGH -> FATIGUE_LOW (이벤트: FATIGUE_ACCUMULATION)
+2025-07-07 17:48:16,424 - core.state_manager        - INFO     - 상태 전환: FATIGUE_LOW -> FATIGUE_HIGH (이벤트: FATIGUE_ACCUMULATION)
+2025-07-07 17:48:16,484 - core.state_manager        - INFO     - 상태 전환: FATIGUE_HIGH -> FATIGUE_LOW (이벤트: FATIGUE_ACCUMULATION)
+2025-07-07 17:48:16,540 - core.state_manager        - INFO     - 상태 전환: FATIGUE_LOW -> FATIGUE_HIGH (이벤트: FATIGUE_ACCUMULATION)
+2025-07-07 17:48:16,580 - core.state_manager        - INFO     - 상태 전환: FATIGUE_HIGH -> FATIGUE_LOW (이벤트: FATIGUE_ACCUMULATION)
+2025-07-07 17:48:16,650 - core.state_manager        - INFO     - 상태 전환: FATIGUE_LOW -> FATIGUE_HIGH (이벤트: FATIGUE_ACCUMULATION)
+2025-07-07 17:48:16,708 - core.state_manager        - INFO     - 상태 전환: FATIGUE_HIGH -> FATIGUE_LOW (이벤트: FATIGUE_ACCUMULATION)
+2025-07-07 17:48:16,764 - core.state_manager        - INFO     - 상태 전환: FATIGUE_LOW -> DISTRACTION_NORMAL (이벤트: ATTENTION_DECLINE)
+2025-07-07 17:48:16,829 - core.state_manager        - INFO     - 상태 전환: DISTRACTION_NORMAL -> DISTRACTION_DANGER (이벤트: ATTENTION_DECLINE)
+2025-07-07 17:48:16,900 - core.state_manager        - INFO     - 상태 전환: DISTRACTION_DANGER -> FATIGUE_LOW (이벤트: FATIGUE_ACCUMULATION)
+2025-07-07 17:48:16,962 - core.state_manager        - INFO     - 상태 전환: FATIGUE_LOW -> DISTRACTION_NORMAL (이벤트: ATTENTION_DECLINE)
+2025-07-07 17:48:17,035 - core.state_manager        - INFO     - 상태 전환: DISTRACTION_NORMAL -> DISTRACTION_DANGER (이벤트: ATTENTION_DECLINE)
+2025-07-07 17:48:17,108 - core.state_manager        - INFO     - 상태 전환: DISTRACTION_DANGER -> DISTRACTION_NORMAL (이벤트: ATTENTION_DECLINE)
+2025-07-07 17:48:17,165 - core.state_manager        - INFO     - 상태 전환: DISTRACTION_NORMAL -> DISTRACTION_DANGER (이벤트: ATTENTION_DECLINE)
+2025-07-07 17:48:17,233 - core.state_manager        - INFO     - 상태 전환: DISTRACTION_DANGER -> DISTRACTION_NORMAL (이벤트: ATTENTION_DECLINE)
+2025-07-07 17:48:17,300 - core.state_manager        - INFO     - 상태 전환: DISTRACTION_NORMAL -> DISTRACTION_DANGER (이벤트: ATTENTION_DECLINE)
+2025-07-07 17:48:17,362 - core.state_manager        - INFO     - 상태 전환: DISTRACTION_DANGER -> DISTRACTION_NORMAL (이벤트: ATTENTION_DECLINE)
+2025-07-07 17:48:17,429 - core.state_manager        - INFO     - 상태 전환: DISTRACTION_NORMAL -> DISTRACTION_DANGER (이벤트: ATTENTION_DECLINE)
+2025-07-07 17:48:17,526 - io_handler.video_input    - INFO     - 다음 비디오 로드: SGA5100180S0086.mp4
+2025-07-07 17:48:17,677 - core.state_manager        - INFO     - 상태 전환: DISTRACTION_DANGER -> DISTRACTION_NORMAL (이벤트: ATTENTION_DECLINE)
+2025-07-07 17:48:17,751 - core.state_manager        - INFO     - 상태 전환: DISTRACTION_NORMAL -> DISTRACTION_DANGER (이벤트: ATTENTION_DECLINE)
+2025-07-07 17:48:17,798 - core.state_manager        - INFO     - 상태 전환: DISTRACTION_DANGER -> DISTRACTION_NORMAL (이벤트: ATTENTION_DECLINE)
+2025-07-07 17:48:19,706 - systems.backup            - WARNING  - 백업 모드 활성화: face_backup_active
+2025-07-07 17:48:19,815 - systems.backup            - INFO     - 백업 모드 비활성화: face_backup_active - 원본 센서 복구됨
+2025-07-07 17:48:19,956 - systems.backup            - WARNING  - 백업 모드 활성화: face_backup_active
+2025-07-07 17:48:20,137 - systems.backup            - INFO     - 백업 모드 비활성화: face_backup_active - 원본 센서 복구됨
+2025-07-07 17:48:20,265 - systems.backup            - WARNING  - 백업 모드 활성화: face_backup_active
+2025-07-07 17:48:20,935 - systems.backup            - INFO     - 백업 모드 비활성화: face_backup_active - 원본 센서 복구됨
+2025-07-07 17:48:20,995 - systems.backup            - WARNING  - 백업 모드 활성화: face_backup_active
+2025-07-07 17:48:21,560 - systems.backup            - INFO     - 백업 모드 비활성화: face_backup_active - 원본 센서 복구됨
+2025-07-07 17:48:22,519 - io_handler.video_input    - INFO     - 다음 비디오 로드: SGA5100180S0101.mp4
+2025-07-07 17:48:22,931 - core.state_manager        - INFO     - 상태 전환: DISTRACTION_NORMAL -> SAFE (이벤트: NORMAL_BEHAVIOR)
+2025-07-07 17:48:23,801 - systems.backup            - WARNING  - 백업 모드 활성화: face_backup_active
+2025-07-07 17:48:23,926 - systems.backup            - INFO     - 백업 모드 비활성화: face_backup_active - 원본 센서 복구됨
+2025-07-07 17:48:24,394 - core.state_manager        - INFO     - 상태 전환: SAFE -> FATIGUE_LOW (이벤트: FATIGUE_ACCUMULATION)
+2025-07-07 17:48:24,470 - core.state_manager        - INFO     - 상태 전환: FATIGUE_LOW -> FATIGUE_HIGH (이벤트: FATIGUE_ACCUMULATION)
+2025-07-07 17:48:24,535 - core.state_manager        - INFO     - 상태 전환: FATIGUE_HIGH -> FATIGUE_LOW (이벤트: FATIGUE_ACCUMULATION)
+2025-07-07 17:48:24,602 - analysis.drowsiness       - INFO     - 개인화 임계값 업데이트: 0.350
+2025-07-07 17:48:24,606 - core.state_manager        - INFO     - 상태 전환: FATIGUE_LOW -> FATIGUE_HIGH (이벤트: FATIGUE_ACCUMULATION)
+2025-07-07 17:48:24,665 - core.state_manager        - INFO     - 상태 전환: FATIGUE_HIGH -> FATIGUE_LOW (이벤트: FATIGUE_ACCUMULATION)
+2025-07-07 17:48:24,743 - core.state_manager        - INFO     - 상태 전환: FATIGUE_LOW -> FATIGUE_HIGH (이벤트: FATIGUE_ACCUMULATION)
+2025-07-07 17:48:24,801 - core.state_manager        - INFO     - 상태 전환: FATIGUE_HIGH -> FATIGUE_LOW (이벤트: FATIGUE_ACCUMULATION)
+2025-07-07 17:48:24,868 - core.state_manager        - INFO     - 상태 전환: FATIGUE_LOW -> FATIGUE_HIGH (이벤트: FATIGUE_ACCUMULATION)
+2025-07-07 17:48:24,984 - core.state_manager        - INFO     - 상태 전환: FATIGUE_HIGH -> DISTRACTION_NORMAL (이벤트: ATTENTION_DECLINE)
+2025-07-07 17:48:25,059 - core.state_manager        - INFO     - 상태 전환: DISTRACTION_NORMAL -> FATIGUE_LOW (이벤트: FATIGUE_ACCUMULATION)
+2025-07-07 17:48:25,118 - core.state_manager        - INFO     - 상태 전환: FATIGUE_LOW -> FATIGUE_HIGH (이벤트: FATIGUE_ACCUMULATION)
+2025-07-07 17:48:25,185 - core.state_manager        - INFO     - 상태 전환: FATIGUE_HIGH -> DISTRACTION_NORMAL (이벤트: ATTENTION_DECLINE)
+2025-07-07 17:48:25,252 - core.state_manager        - INFO     - 상태 전환: DISTRACTION_NORMAL -> DISTRACTION_DANGER (이벤트: ATTENTION_DECLINE)
+2025-07-07 17:48:25,316 - core.state_manager        - INFO     - 상태 전환: DISTRACTION_DANGER -> FATIGUE_LOW (이벤트: FATIGUE_ACCUMULATION)
+2025-07-07 17:48:25,385 - core.state_manager        - INFO     - 상태 전환: FATIGUE_LOW -> DISTRACTION_NORMAL (이벤트: ATTENTION_DECLINE)
+2025-07-07 17:48:25,454 - core.state_manager        - INFO     - 상태 전환: DISTRACTION_NORMAL -> DISTRACTION_DANGER (이벤트: ATTENTION_DECLINE)
+2025-07-07 17:48:25,515 - core.state_manager        - INFO     - 상태 전환: DISTRACTION_DANGER -> DISTRACTION_NORMAL (이벤트: ATTENTION_DECLINE)
+2025-07-07 17:48:25,582 - core.state_manager        - INFO     - 상태 전환: DISTRACTION_NORMAL -> DISTRACTION_DANGER (이벤트: ATTENTION_DECLINE)
+2025-07-07 17:48:25,653 - core.state_manager        - INFO     - 상태 전환: DISTRACTION_DANGER -> DISTRACTION_NORMAL (이벤트: ATTENTION_DECLINE)
+2025-07-07 17:48:25,716 - core.state_manager        - INFO     - 상태 전환: DISTRACTION_NORMAL -> DISTRACTION_DANGER (이벤트: ATTENTION_DECLINE)
+2025-07-07 17:48:25,786 - core.state_manager        - INFO     - 상태 전환: DISTRACTION_DANGER -> DISTRACTION_NORMAL (이벤트: ATTENTION_DECLINE)
+2025-07-07 17:48:25,851 - core.state_manager        - INFO     - 상태 전환: DISTRACTION_NORMAL -> DISTRACTION_DANGER (이벤트: ATTENTION_DECLINE)
+2025-07-07 17:48:25,917 - core.state_manager        - INFO     - 상태 전환: DISTRACTION_DANGER -> DISTRACTION_NORMAL (이벤트: ATTENTION_DECLINE)
+2025-07-07 17:48:25,987 - core.state_manager        - INFO     - 상태 전환: DISTRACTION_NORMAL -> DISTRACTION_DANGER (이벤트: ATTENTION_DECLINE)
+2025-07-07 17:48:26,050 - core.state_manager        - INFO     - 상태 전환: DISTRACTION_DANGER -> DISTRACTION_NORMAL (이벤트: ATTENTION_DECLINE)
+2025-07-07 17:48:26,119 - core.state_manager        - INFO     - 상태 전환: DISTRACTION_NORMAL -> DISTRACTION_DANGER (이벤트: ATTENTION_DECLINE)
+2025-07-07 17:48:26,183 - core.state_manager        - INFO     - 상태 전환: DISTRACTION_DANGER -> DISTRACTION_NORMAL (이벤트: ATTENTION_DECLINE)
+2025-07-07 17:48:26,253 - core.state_manager        - INFO     - 상태 전환: DISTRACTION_NORMAL -> DISTRACTION_DANGER (이벤트: ATTENTION_DECLINE)
+2025-07-07 17:48:28,297 - io_handler.video_input    - INFO     - 다음 비디오 로드: SGA5100180S0109.mp4
+2025-07-07 17:48:29,545 - systems.backup            - WARNING  - 백업 모드 활성화: face_backup_active
+2025-07-07 17:48:30,324 - systems.backup            - INFO     - 백업 모드 비활성화: face_backup_active - 원본 센서 복구됨
+2025-07-07 17:48:31,542 - core.state_manager        - INFO     - 상태 전환: DISTRACTION_DANGER -> DISTRACTION_NORMAL (이벤트: ATTENTION_DECLINE)
+2025-07-07 17:48:31,634 - core.state_manager        - INFO     - 상태 전환: DISTRACTION_NORMAL -> DISTRACTION_DANGER (이벤트: ATTENTION_DECLINE)
+2025-07-07 17:48:31,713 - core.state_manager        - INFO     - 상태 전환: DISTRACTION_DANGER -> DISTRACTION_NORMAL (이벤트: ATTENTION_DECLINE)
+2025-07-07 17:48:31,796 - core.state_manager        - INFO     - 상태 전환: DISTRACTION_NORMAL -> DISTRACTION_DANGER (이벤트: ATTENTION_DECLINE)
+2025-07-07 17:48:31,864 - core.state_manager        - INFO     - 상태 전환: DISTRACTION_DANGER -> DISTRACTION_NORMAL (이벤트: ATTENTION_DECLINE)
+2025-07-07 17:48:33,948 - io_handler.video_input    - INFO     - 다음 비디오 로드: SGA5100180S0113.mp4
+2025-07-07 17:48:34,602 - systems.backup            - WARNING  - 백업 모드 활성화: face_backup_active
+2025-07-07 17:48:34,665 - systems.backup            - INFO     - 백업 모드 비활성화: face_backup_active - 원본 센서 복구됨
+2025-07-07 17:48:34,741 - systems.backup            - WARNING  - 백업 모드 활성화: face_backup_active
+2025-07-07 17:48:36,882 - core.state_manager        - INFO     - 상태 전환: DISTRACTION_NORMAL -> SAFE (이벤트: NORMAL_BEHAVIOR)
+2025-07-07 17:48:37,164 - systems.backup            - INFO     - 백업 모드 비활성화: face_backup_active - 원본 센서 복구됨
+2025-07-07 17:48:37,316 - systems.backup            - WARNING  - 백업 모드 활성화: face_backup_active
+2025-07-07 17:48:37,377 - systems.backup            - INFO     - 백업 모드 비활성화: face_backup_active - 원본 센서 복구됨
+2025-07-07 17:48:37,673 - systems.backup            - WARNING  - 백업 모드 활성화: face_backup_active
+2025-07-07 17:48:37,735 - systems.backup            - INFO     - 백업 모드 비활성화: face_backup_active - 원본 센서 복구됨
+2025-07-07 17:48:39,559 - io_handler.video_input    - INFO     - 다음 비디오 로드: SGA5100180S0128.mp4
+2025-07-07 17:48:39,972 - systems.backup            - WARNING  - 백업 모드 활성화: face_backup_active
+2025-07-07 17:48:40,027 - systems.backup            - INFO     - 백업 모드 비활성화: face_backup_active - 원본 센서 복구됨
+2025-07-07 17:48:44,094 - io_handler.video_input    - INFO     - 다음 비디오 로드: SGA5100180S0177.mp4
+2025-07-07 17:48:44,499 - systems.backup            - WARNING  - 백업 모드 활성화: face_backup_active
+2025-07-07 17:48:44,560 - systems.backup            - INFO     - 백업 모드 비활성화: face_backup_active - 원본 센서 복구됨
+2025-07-07 17:48:46,850 - core.state_manager        - INFO     - 상태 전환: SAFE -> DISTRACTION_NORMAL (이벤트: ATTENTION_DECLINE)
+2025-07-07 17:48:47,144 - core.state_manager        - INFO     - 상태 전환: DISTRACTION_NORMAL -> DISTRACTION_DANGER (이벤트: ATTENTION_DECLINE)
+2025-07-07 17:48:47,220 - core.state_manager        - INFO     - 상태 전환: DISTRACTION_DANGER -> DISTRACTION_NORMAL (이벤트: ATTENTION_DECLINE)
+2025-07-07 17:48:47,284 - core.state_manager        - INFO     - 상태 전환: DISTRACTION_NORMAL -> DISTRACTION_DANGER (이벤트: ATTENTION_DECLINE)
+2025-07-07 17:48:47,353 - core.state_manager        - INFO     - 상태 전환: DISTRACTION_DANGER -> DISTRACTION_NORMAL (이벤트: ATTENTION_DECLINE)
+2025-07-07 17:48:47,417 - core.state_manager        - INFO     - 상태 전환: DISTRACTION_NORMAL -> DISTRACTION_DANGER (이벤트: ATTENTION_DECLINE)
+2025-07-07 17:48:47,493 - core.state_manager        - INFO     - 상태 전환: DISTRACTION_DANGER -> DISTRACTION_NORMAL (이벤트: ATTENTION_DECLINE)
+2025-07-07 17:48:47,554 - core.state_manager        - INFO     - 상태 전환: DISTRACTION_NORMAL -> DISTRACTION_DANGER (이벤트: ATTENTION_DECLINE)
+2025-07-07 17:48:47,619 - core.state_manager        - INFO     - 상태 전환: DISTRACTION_DANGER -> DISTRACTION_NORMAL (이벤트: ATTENTION_DECLINE)
+2025-07-07 17:48:47,689 - core.state_manager        - INFO     - 상태 전환: DISTRACTION_NORMAL -> DISTRACTION_DANGER (이벤트: ATTENTION_DECLINE)
+2025-07-07 17:48:47,750 - core.state_manager        - INFO     - 상태 전환: DISTRACTION_DANGER -> DISTRACTION_NORMAL (이벤트: ATTENTION_DECLINE)
+2025-07-07 17:48:47,815 - core.state_manager        - INFO     - 상태 전환: DISTRACTION_NORMAL -> DISTRACTION_DANGER (이벤트: ATTENTION_DECLINE)
+2025-07-07 17:48:47,887 - core.state_manager        - INFO     - 상태 전환: DISTRACTION_DANGER -> DISTRACTION_NORMAL (이벤트: ATTENTION_DECLINE)
+2025-07-07 17:48:47,950 - core.state_manager        - INFO     - 상태 전환: DISTRACTION_NORMAL -> DISTRACTION_DANGER (이벤트: ATTENTION_DECLINE)
+2025-07-07 17:48:48,020 - core.state_manager        - INFO     - 상태 전환: DISTRACTION_DANGER -> DISTRACTION_NORMAL (이벤트: ATTENTION_DECLINE)
+2025-07-07 17:48:48,084 - core.state_manager        - INFO     - 상태 전환: DISTRACTION_NORMAL -> DISTRACTION_DANGER (이벤트: ATTENTION_DECLINE)
+2025-07-07 17:48:50,021 - io_handler.video_input    - INFO     - 다음 비디오 로드: SGA5100180S0032.mp4
+2025-07-07 17:48:52,425 - systems.backup            - WARNING  - 백업 모드 활성화: face_backup_active
+2025-07-07 17:48:52,480 - systems.backup            - INFO     - 백업 모드 비활성화: face_backup_active - 원본 센서 복구됨
+2025-07-07 17:48:52,573 - systems.backup            - WARNING  - 백업 모드 활성화: face_backup_active
+2025-07-07 17:48:53,114 - core.state_manager        - INFO     - 상태 전환: DISTRACTION_DANGER -> SAFE (이벤트: NORMAL_BEHAVIOR)
+2025-07-07 17:48:53,956 - systems.backup            - INFO     - 백업 모드 비활성화: face_backup_active - 원본 센서 복구됨
+2025-07-07 17:48:54,013 - systems.backup            - WARNING  - 백업 모드 활성화: face_backup_active
+2025-07-07 17:48:54,082 - systems.backup            - INFO     - 백업 모드 비활성화: face_backup_active - 원본 센서 복구됨
+2025-07-07 17:48:54,941 - io_handler.video_input    - INFO     - 다음 비디오 로드: SGA5100180S0036.mp4
+2025-07-07 17:48:58,196 - systems.performance       - INFO     - 세션 요약 저장: performance_logs\summary_performance_v6_20250707_174802.json
+2025-07-07 17:48:58,196 - app                       - INFO     - Enhanced DMS v18 시스템 정리 중...
+2025-07-07 17:48:58,196 - systems.mediapipe_manager - INFO     - MediaPipe Task 리소스 정리 시작...
+2025-07-07 17:48:58,223 - systems.mediapipe_manager - INFO     - MediaPipe Task 리소스 정리 완료.
+2025-07-07 17:48:58,252 - io_handler.video_input    - INFO     - VideoInputManager 리소스 해제 완료.
+2025-07-07 17:48:58,265 - app                       - INFO     - 최종 성능 요약 - 평균 FPS: 16.6, 성능 점수: 69.2%
+2025-07-07 17:48:58,265 - app                       - INFO     - Enhanced DMS v18 시스템 정리 완료
