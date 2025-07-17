@@ -2,6 +2,7 @@ from dataclasses import dataclass, field
 from enum import Enum, IntEnum
 from typing import List
 
+
 class RiskLevel(IntEnum):
     SAFE = 0
     LOW = 1
@@ -65,15 +66,15 @@ class GazeZone(Enum):
 
 
 class EmotionState(Enum):
-    NEUTRAL = "중립"
-    HAPPINESS = "기쁨"
-    SADNESS = "슬픔"
-    ANGER = "분노"
-    FEAR = "두려움"
-    SURPRISE = "놀람"
-    DISGUST = "혐오"
-    STRESS = "스트레스"
-    FATIGUE = "피로"
+    NEUTRAL = "NEUTRAL"
+    HAPPINESS = "HAPPINESS"
+    SADNESS = "SADNESS"
+    ANGER = "ANGER"
+    FEAR = "FEAR"
+    SURPRISE = "SURPRISE"
+    DISGUST = "DISGUST"
+    STRESS = "STRESS"
+    FATIGUE = "FATIGUE"
 
 
 @dataclass
@@ -127,6 +128,7 @@ class AdvancedMetrics:
     personalized_threshold: float = 0.25
     pose_complexity_score: float = 0.0
     attention_focus_score: float = 1.0
+
 
 class CameraPosition(Enum):
     REARVIEW_MIRROR = "백미러 위치"
